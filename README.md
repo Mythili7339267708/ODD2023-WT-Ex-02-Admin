@@ -1,8 +1,8 @@
 # Ex-02-Admin
 
 NAME:Mythili V
-DEPT:IT
-REF:23008741
+DEPT:CSE
+REF:23012444
 
 # AIM
 Create a django website with five users.Two users are to be staff users(including admin) and the other three are non-staff users.
