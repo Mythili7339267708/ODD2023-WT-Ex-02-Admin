@@ -11,12 +11,20 @@ Create a django website with five users.Two users are to be staff users(includin
 
 STEP 1:
 Creating five users
+
+
 STEP 2:
 Two staff users and three non-staff users
+
+
 STEP 3:
 Setting e-mail for all users
+
+
 STEP 4:
 Setting the first and last name for all users
+
+
 
 OUTPUT:
 
